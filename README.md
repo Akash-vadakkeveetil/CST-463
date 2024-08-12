@@ -1,31 +1,28 @@
 # This repo showcases a basic front end project done as per CST-463 academic paper
-# HTML TOPICS
 <details>
 <summary>HTML TOPICS</summary>
 
-1. Structuring & Editing an HTML5 Document
-2. Fundamentals of HTML
-3. Headings
-4. Hyperlinks
-5. Images
-6. Special Characters
-7. Horizontal Rules
-8. Lists
-9. Tables
-10. Forms
-11. Internal Linking
-12. Meta Elements
-13. HTML5 Form Input Types
-14. Input and Data List Elements
-15. Autocomplete Attribute
-16. Page Structure Elements
-17. Multimedia
-18. HTML5 Audio & Video Elements
+1. [ ] Structuring & Editing an HTML5 Document
+2. [ ] Fundamentals of HTML
+3. [ ] Headings
+4. [ ] Hyperlinks
+5. [ ] Images
+6. [ ] Special Characters
+7. [ ] Horizontal Rules
+8. [ ] Lists
+9. [ ] Tables
+10. [ ] Forms
+11. [ ] Internal Linking
+12. [ ] Meta Elements
+13. [ ] HTML5 Form Input Types
+14. [ ] Input and Data List Elements
+15. [ ] Autocomplete Attribute
+16. [ ] Page Structure Elements
+17. [ ] Multimedia
+18. [ ] HTML5 Audio & Video Elements
 </details>
-The topics mentioned in your list related to HTML5 are:
 
 
-Creating a website to store your cooking recipes with a focus on high-protein foods is a great idea! Here’s how you can incorporate all 18 HTML5 topics into this project:
 
 ### Website Idea: **"Protein-Packed Recipes"**
 
@@ -65,12 +62,3 @@ Creating a website to store your cooking recipes with a focus on high-protein fo
 - **Forms**: Include a contact form for visitors to ask questions or connect with you about fitness and nutrition.
 - **Input and Data List Elements**: Use a data list element to suggest topics for users when they type in their message.
 
-### Future Enhancements:
-- **CSS Styling**: Start with basic styling, using colors that represent health and fitness (e.g., greens and blues). Add more advanced features like responsive design and hover effects over time.
-- **JavaScript Features**: Later on, you could implement a macro calculator, meal planner, or interactive content like quizzes about protein intake.
-
-
- ### SOME SUGGESTTED NAMES FUCK YES
- - Akash's Cookfolio
- - Akash's Flavorfolio
- - Akash's Dishfolio
