@@ -3,9 +3,156 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CST463</title>
+    <meta name="description" content="Akash's Cookfolio - A collection of delicious recipes.">
+    <title>Akash's Cookfolio</title>
 </head>
 <body>
-    <h1>Hello world</h1>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#recipes">Recipes</a></li>
+            <li><a href="#nutrition">Nutrition Tips</a></li>
+            <li><a href="#submit">Submit a Recipe</a></li>
+            <li><a href="#gallery">Media Gallery</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Home Section -->
+    <section id="home">
+        <h1>Welcome to Akash's Cookfolio</h1>
+        <p>Discover delicious and healthy recipes designed for a balanced diet.</p>
+        <hr>
+    </section>
+
+    <!-- Recipes Section -->
+    <section id="recipes">
+        <h2>Recipe Categories</h2>
+        <ul>
+            <li><a href="#breakfast">Breakfast</a></li>
+            <li><a href="#lunch">Lunch</a></li>
+            <li><a href="#dinner">Dinner</a></li>
+            <li><a href="#snacks">Snacks</a></li>
+            <li><a href="#shakes">Protein Shakes</a></li>
+        </ul>
+
+        <h3 id="breakfast">Breakfast</h3>
+        <p>A healthy breakfast to start your day right.</p>
+        <img src="breakfast.jpg" alt="Breakfast Recipe">
+        
+        <h3 id="lunch">Lunch</h3>
+        <p>Delicious and filling lunch ideas.</p>
+        <img src="lunch.jpg" alt="Lunch Recipe">
+
+        <h3 id="dinner">Dinner</h3>
+        <p>End your day with a satisfying meal.</p>
+        <img src="dinner.jpg" alt="Dinner Recipe">
+        
+        <h3 id="snacks">Snacks</h3>
+        <p>Healthy snacks to keep you going.</p>
+        <img src="snacks.jpg" alt="Snacks Recipe">
+        
+        <h3 id="shakes">Protein Shakes</h3>
+        <p>Delicious shakes packed with protein.</p>
+        <img src="shakes.jpg" alt="Protein Shake Recipe">
+        <hr>
+    </section>
+
+    <!-- Nutrition Tips Section -->
+    <section id="nutrition">
+        <h2>Nutrition Tips</h2>
+        <p><a href="https://www.healthline.com/nutrition/high-protein-foods">Why Protein is Important</a></p>
+        <table>
+            <tr>
+                <th>Food</th>
+                <th>Protein (g)</th>
+                <th>Calories</th>
+            </tr>
+            <tr>
+                <td>Chicken Breast</td>
+                <td>31g</td>
+                <td>165</td>
+            </tr>
+            <tr>
+                <td>Salmon</td>
+                <td>25g</td>
+                <td>206</td>
+            </tr>
+            <!-- More food items -->
+        </table>
+        <hr>
+    </section>
+
+    <!-- Submit a Recipe Section -->
+    <section id="submit">
+        <h2>Submit Your Recipe</h2>
+        <form action="#">
+            <label for="name">Your Name:</label>
+            <input type="text" id="name" name="name" autocomplete="name"><br><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" autocomplete="email"><br><br>
+
+            <label for="recipe">Recipe Name:</label>
+            <input type="text" id="recipe" name="recipe"><br><br>
+
+            <label for="category">Category:</label>
+            <input list="categories" id="category" name="category">
+            <datalist id="categories">
+                <option value="Breakfast">
+                <option value="Lunch">
+                <option value="Dinner">
+                <option value="Snacks">
+                <option value="Protein Shakes">
+            </datalist><br><br>
+
+            <label for="ingredients">Ingredients:</label>
+            <textarea id="ingredients" name="ingredients"></textarea><br><br>
+
+            <label for="steps">Preparation Steps:</label>
+            <textarea id="steps" name="steps"></textarea><br><br>
+
+            <label for="date">Date of Submission:</label>
+            <input type="date" id="date" name="date"><br><br>
+
+            <input type="submit" value="Submit Recipe">
+        </form>
+        <hr>
+    </section>
+
+    <!-- Media Gallery Section -->
+    <section id="gallery">
+        <h2>Media Gallery</h2>
+        <video src="cooking-video.mp4" controls>Your browser does not support the video tag.</video>
+        <audio src="cooking-podcast.mp3" controls>Your browser does not support the audio element.</audio>
+        <hr>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Akash's Cookfolio</h2>
+        <p>This website is a collection of my favorite recipes, focusing on healthy and high-protein meals.</p>
+        <hr>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <form action="#">
+            <label for="message">Your Message:</label>
+            <textarea id="message" name="message"></textarea><br><br>
+            <input type="submit" value="Send Message">
+        </form>
+        <hr>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Akash's Cookfolio</p>
+    </footer>
+
 </body>
 </html>

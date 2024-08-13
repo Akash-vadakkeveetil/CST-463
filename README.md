@@ -1,4 +1,5 @@
 # This repo showcases a basic front end project done as per CST-463 academic paper
+# The culinary portfolio
 <details>
 <summary>HTML TOPICS</summary>
 
@@ -23,42 +24,46 @@
 </details>
 
 
+# Akash's Cookfolio
 
-### Website Idea: **"Protein-Packed Recipes"**
+This project showcases a basic cooking website, **Akash's Cookfolio**, created using HTML5. The website features a collection of high-protein recipes tailored for gym enthusiasts and highlights the following HTML5 concepts:
 
-#### **1. Home Page:**
-- **Headings**: Use headings to introduce your site (e.g., "Welcome to Protein-Packed Recipes" and "Discover High-Protein Meals").
-- **Special Characters**: Incorporate special characters like `&copy;` for copyright at the footer, or use symbols like `✓` to mark features.
-- **Horizontal Rules**: Separate sections such as Featured Recipes, Recent Posts, and About with horizontal rules.
-- **Internal Linking**: Create a navigation bar with links to other sections of your site like Recipe Categories, Nutritional Info, and Contact.
+## 1. Home Page
+- **Headings**: Introduces the website with titles like "Welcome to Akash's Cookfolio" and "Discover Delicious Recipes."
+- **Special Characters**: Uses special characters, such as `&copy;` for the footer, and `✓` to indicate completed tasks.
+- **Horizontal Rules**: Separates sections like Featured Recipes, Recent Posts, and About with horizontal rules.
+- **Internal Linking**: Includes a navigation bar with links to other sections like Recipe Categories, Nutritional Info, and Contact.
 
-#### **2. Recipe Categories Page:**
-- **Lists**: Display a categorized list of recipes, such as Breakfast, Lunch, Dinner, Snacks, and Protein Shakes. Use unordered or ordered lists for the recipe names.
-- **Images**: Add images for each recipe category, such as a picture of a protein smoothie for the Shakes category.
+## 2. Recipe Categories Page
+- **Lists**: Categorizes recipes (e.g., Breakfast, Lunch, Dinner) using ordered/unordered lists.
+- **Images**: Displays images corresponding to each recipe category.
 
-#### **3. Individual Recipe Page:**
-- **Tables**: Use tables to display nutritional information like calories, protein, carbs, and fat content for each recipe.
-- **Forms**: Include a comment form for visitors to share their thoughts or variations on the recipe.
-- **HTML5 Form Input Types**: Use specific input types for the form, like email for subscribing to updates or date for the preparation date.
+## 3. Individual Recipe Page
+- **Tables**: Organizes nutritional information (calories, protein, carbs, fat) using tables.
+- **Forms**: Provides a comment form for users to share feedback on recipes.
+- **HTML5 Form Input Types**: Uses specific input types in the form (e.g., email for subscription, date for recipe preparation).
 
-#### **4. Nutrition Tips Page:**
-- **Headings**: Structure content with headings, such as "Why Protein is Important" and "Tips for Maximizing Protein Intake."
-- **Meta Elements**: Use meta tags to enhance the page’s SEO, targeting keywords related to high-protein diets and fitness.
-- **Hyperlinks**: Provide links to scientific articles or studies that support the nutritional advice given.
+## 4. Nutrition Tips Page
+- **Headings**: Structures content with headings like "Why Protein Matters" and "Maximizing Protein Intake."
+- **Meta Elements**: Enhances SEO with meta tags focused on high-protein diets and fitness.
+- **Hyperlinks**: Links to external articles and studies supporting the nutritional advice.
 
-#### **5. Recipe Submission Page:**
-- **Forms**: Create a form where users can submit their own protein-packed recipes, including fields for ingredients, preparation steps, and nutritional information.
-- **Autocomplete Attribute**: Implement autocomplete to improve user experience when filling out their details.
+## 5. Recipe Submission Page
+- **Forms**: Allows users to submit their own recipes with fields for ingredients, preparation, and nutritional info.
+- **Autocomplete Attribute**: Implements autocomplete in the form for an enhanced user experience.
 
-#### **6. Media Gallery Page:**
-- **Multimedia**: Include cooking tutorial videos and podcasts discussing nutrition for gym enthusiasts.
-- **HTML5 Audio & Video Elements**: Embed videos of you preparing the recipes or discussing their nutritional benefits.
+## 6. Media Gallery Page
+- **Multimedia**: Includes cooking videos and podcasts related to nutrition for gym enthusiasts.
+- **HTML5 Audio & Video Elements**: Embeds video tutorials and discussions on the nutritional benefits of recipes.
 
-#### **7. About Page:**
-- **Page Structure Elements**: Use HTML5 elements like `<header>`, `<section>`, `<article>`, and `<footer>` to organize content about your fitness journey and the importance of a protein-rich diet.
-- **Special Characters & Horizontal Rules**: Enhance the design with special characters and horizontal rules to break up sections.
+## 7. About Page
+- **Page Structure Elements**: Utilizes HTML5 elements (`<header>`, `<section>`, `<article>`, `<footer>`) to organize content about your culinary journey and fitness focus.
+- **Special Characters & Horizontal Rules**: Uses special characters and horizontal rules for aesthetic appeal.
 
-#### **8. Contact Us Page:**
-- **Forms**: Include a contact form for visitors to ask questions or connect with you about fitness and nutrition.
-- **Input and Data List Elements**: Use a data list element to suggest topics for users when they type in their message.
+## 8. Contact Us Page
+- **Forms**: Provides a contact form for visitors to reach out with questions or feedback.
+- **Input and Data List Elements**: Uses data list elements to suggest topics when users type their message.
+
+
+
 
