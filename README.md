@@ -3,24 +3,22 @@
 <details>
 <summary>HTML TOPICS</summary>
 
-1. [ ] Structuring & Editing an HTML5 Document
-2. [ ] Fundamentals of HTML
-3. [ ] Headings
-4. [ ] Hyperlinks
-5. [ ] Images
-6. [ ] Special Characters
-7. [ ] Horizontal Rules
-8. [ ] Lists
-9. [ ] Tables
-10. [ ] Forms
-11. [ ] Internal Linking
-12. [ ] Meta Elements
-13. [ ] HTML5 Form Input Types
-14. [ ] Input and Data List Elements
-15. [ ] Autocomplete Attribute
-16. [ ] Page Structure Elements
-17. [ ] Multimedia
-18. [ ] HTML5 Audio & Video Elements
+1. [x] Headings
+2. [x] Hyperlinks
+3. [x] Images
+4. [x] Special Characters
+5. [x] Horizontal Rules
+6. [x] Lists
+7. [x] Tables
+8. [x] Forms
+9. [x] Internal Linking
+10. [x] Meta Elements
+11. [x] HTML5 Form Input Types
+12. [x] Input and Data List Elements
+13. [x] Autocomplete Attribute
+14. [x] Page Structure Elements
+15. [x] Multimedia
+16. [x] HTML5 Audio & Video Elements
 </details>
 
 
